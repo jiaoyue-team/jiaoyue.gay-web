@@ -34,6 +34,7 @@ window.translations.en = {
     modal_work_tools: "Tools Used:",
     modal_work_view: "【View Project】",
     modal_work_coming_soon: "More works coming soon...",
+    modal_work_not_for_sale: "Not Available for Sale",
     //All works area translations
     //1. Dog bites fox
     work_youtube_title: "dog bites fox",
@@ -74,7 +75,7 @@ window.translations.en = {
     work_10_desc_short: "His Name is Gourd Green Sauce",
     work_11_title: "Birthday: 3",
     work_11_desc: "I finally finished drawing it before the 26th",
-    work_11_desc_shart: "I finally finished drawing it before the 26th",
+    work_11_desc_short: "I finally finished drawing it before the 26th",
     work_12_title: "My friend drew it for me.",
 	work_12_desc: "By Owen",
 	work_12_desc_short: "By Owen"

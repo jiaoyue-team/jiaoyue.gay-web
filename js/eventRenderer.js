@@ -66,7 +66,7 @@ window.renderEvents = async function (lang) {
 
             card.innerHTML = `
                 <div class="event-image">
-                    <img src="${data.img}" alt="${title}" loading="lazy">
+                    <img src="${data.img}" alt="${title}" loading="lazy" onerror="this.src='https://placehold.co/400x200/33333A/FFFFFF?text=Event'">
                 </div>
                 <div class="event-body">
                     <h3 class="event-title">${title}</h3>

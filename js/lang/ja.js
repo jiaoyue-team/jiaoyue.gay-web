@@ -34,6 +34,7 @@ window.translations.ja = {
     modal_work_tools: "使用ツール:",
     modal_work_view: "【プロジェクトを見る】",
     modal_work_coming_soon: "他の作品は準備中です...",
+    modal_work_not_for_sale: "販売されていません",
     //全ての作品エリアの翻訳
     //1. 犬がキツネを噛む
     work_youtube_title: "犬がキツネを噛む",

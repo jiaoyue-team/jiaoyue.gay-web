@@ -131,7 +131,7 @@ const worksModalHTML = `
                         <div class="grid lg:grid-cols-2 gap-8 items-start">
                             
                             <div class="w-full aspect-video lg:aspect-auto rounded-lg overflow-hidden border border-light-border dark:border-dark-border">
-                                <img id="detail-image" src="" width="1280" height="720" alt="" data-alt="" loading="lazy" decoding="async" class="w-full h-full object-cover">
+                                <img id="detail-image" src="" width="1280" height="720" alt="" data-alt="" loading="lazy" decoding="async" class="w-full h-full object-cover" onerror="this.src='https://placehold.co/800x450/33333A/FFFFFF?text=Image'">
                             </div>
                             
                             <div class="flex flex-col h-full">
@@ -147,7 +147,7 @@ const worksModalHTML = `
                                     <i class="fas fa-external-link-alt mr-2"></i><span data-t="modal_work_view">前往觀看</span>
                                 </a>
                                 <span id="detail-link-disabled" class="hidden mt-6 text-center w-full px-6 py-3 bg-slate-200 dark:bg-slate-700 text-slate-400 dark:text-slate-500 font-bold rounded-lg cursor-not-allowed flex items-center justify-center gap-2">
-                                    <i class="fas fa-hourglass-start"></i> <span data-t="advertiser1_btn">作品尚未販售</span>
+                                    <i class="fas fa-hourglass-start"></i> <span data-t="modal_work_not_for_sale">作品尚未販售</span>
                                 </span>
                             </div>
                         </div>

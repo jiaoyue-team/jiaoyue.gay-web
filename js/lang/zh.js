@@ -34,6 +34,7 @@ window.translations.zh = {
     modal_work_tools: "使用工具:",
     modal_work_view: "【前往觀看】",
     modal_work_coming_soon: "更多作品準備中...",
+    modal_work_not_for_sale: "作品尚未販售",
     //所有作品區翻譯
     //1. 狗咬狐狸
     work_youtube_title: "狗咬狐狸",

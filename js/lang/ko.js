@@ -34,6 +34,7 @@ window.translations.ko = {
     modal_work_tools: "사용 도구:",
     modal_work_view: "【프로젝트 보기】",
     modal_work_coming_soon: "더 많은 작품 준비 중...",
+    modal_work_not_for_sale: "판매되지 않는 작품입니다",
     //All works area translations
     //1. Dog bites fox
     work_youtube_title: "개가 여우를 물다",

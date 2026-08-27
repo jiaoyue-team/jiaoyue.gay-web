@@ -34,6 +34,7 @@ window.translations['zh-Hans'] = {
     modal_work_tools: "使用工具:",
     modal_work_view: "【前往观看】",
     modal_work_coming_soon: "更多作品准备中...",
+    modal_work_not_for_sale: "作品尚未贩售",
     //所有作品区翻译
     //1. 狗咬狐狸
     work_youtube_title: "狗咬狐狸",
@@ -66,9 +67,9 @@ window.translations['zh-Hans'] = {
     work_8_title: "可爱狗狗",
     work_8_desc: "一只可爱的狗狗",
     work_8_desc_short: "一只可爱的狗狗",
-    work_9_title: "永遠支持同性戀",
-    work_9_desc: "一隻可愛的狗狗拿著棋子",
-    work_9_desc_short: "一隻可愛的狗狗拿著棋子",
+    work_9_title: "永远支持同性恋",
+    work_9_desc: "一只可爱的小狗拿着旗子",
+    work_9_desc_short: "一只可爱的小狗拿着旗子",
     work_10_title: "我朋友的动物设定",
     work_10_desc: "他名字叫瓠青酱",
     work_10_desc_short: "他名字叫瓠青酱",
