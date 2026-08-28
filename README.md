@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-jiaoyue.gay-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jiaoyue.gay/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://jiaoyue.gay/discord)
 [![Last Update](https://img.shields.io/badge/Updated-2026%2F08%2F28-success?style=for-the-badge&logo=clock&logoColor=white)](https://jiaoyue.gay/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE.md)
 
 <p align="center">
   <b>台灣 Furry 創作者「焦月」的個人品牌、作品集與自我介紹網站。</b><br>
@@ -214,7 +214,7 @@ python -m http.server 8080
 
 ## 📄 授權條款 (License)
 
-本專案原始碼以 [MIT License](LICENSE) 授權釋出。  
+本專案原始碼以 [MIT License](LICENSE.md) 授權釋出。  
 網站內包含之角色設定、圖像素材、插畫繪圖及專屬文字著作權均屬 **焦月 (Jiao Yue)** 及原作者所有，未經授權請勿擅自轉載或作商業用途。
 
 <div align="center">
