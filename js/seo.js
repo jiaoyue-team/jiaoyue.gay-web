@@ -23,6 +23,7 @@
             {
                 "@type": "Person",
                 "name": config.personName,
+                "email": config.personEmail || "jiaoyue0325@jiaoyue.gay",
                 "url": config.siteUrl,
                 "image": config.personImage,
                 "sameAs": config.socialLinks,

@@ -77,6 +77,9 @@ window.siteConfig = {
         },
         birthday: {
             dateStr: "03 / 25"
+        },
+        contact: {
+            email: "jiaoyue0325@jiaoyue.gay"
         }
     },
 
@@ -85,10 +88,12 @@ window.siteConfig = {
         siteUrl: "https://jiaoyue.gay/",
         siteDescription: "🐾 焦月 🐾 | 台灣furry創作者，焦月自我介紹網站。",
         personName: "焦月 Jiao Yue",
+        personEmail: "jiaoyue0325@jiaoyue.gay",
         personImage: "https://jiaoyue.gay/images/jiao_yue_profile.jpg",
         personJobTitle: "Digital Artist",
         personDescription: "一位熱愛創作的柴犬獸人，展示電繪作品、YouTube 影片以及更多創意內容。",
         socialLinks: [
+            "mailto:jiaoyue0325@jiaoyue.gay",
             "https://www.youtube.com/channel/UCfn_S3F7gIG9-komcsLMPLA",
             "https://x.com/xingxing1443469",
             "https://www.instagram.com/louis1234433",

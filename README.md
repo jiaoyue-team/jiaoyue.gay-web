@@ -3,6 +3,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-jiaoyue.gay-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jiaoyue.gay/)
+[![Email](https://img.shields.io/badge/Email-jiaoyue0325%40jiaoyue.gay-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiaoyue0325@jiaoyue.gay)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://jiaoyue.gay/discord)
 [![Last Update](https://img.shields.io/badge/Updated-2026%2F08%2F28-success?style=for-the-badge&logo=clock&logoColor=white)](https://jiaoyue.gay/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE.md)
@@ -203,6 +204,7 @@ python -m http.server 8080
 
 歡迎透過以下管道關注焦月與交流互動：
 
+- **聯絡信箱 (Email)**：[jiaoyue0325@jiaoyue.gay](mailto:jiaoyue0325@jiaoyue.gay)
 - **官方網站**：[https://jiaoyue.gay/](https://jiaoyue.gay/)
 - **YouTube**：[@焦月 Jiao Yue](https://www.youtube.com/channel/UCfn_S3F7gIG9-komcsLMPLA)
 - **X (Twitter)**：[@xingxing1443469](https://x.com/xingxing1443469)
